@@ -1,0 +1,6 @@
+name: Custom Nid
+type: module
+description: 'Provide custom nid field on node create page.'
+core_version_requirement: ^8 || ^9 || ^10
+version: '9.x-1.0'
+project: 'custom_nid'
